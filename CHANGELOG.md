@@ -4,67 +4,84 @@
 
 - Record and use scroll position for note entries
 
-### 🐛 Bug Fixes
+### 🔧 Fixes & Tweaks
 
 - Match 3.27 notification bar style
 - Improve touch targets for user entries
 - Improve conflict resolution for toc.rm files
 - 3.28 support
+
 ## [1.4.2] - 2026-05-10
 
-### 🐛 Bug Fixes
+### 🔧 Fixes & Tweaks
 
-- *(betterToc)* Duplicate affect on 3.27
-- *(betterToc)* Primary sort on page number (#4)
+- Duplicate affect on 3.27
+- Primary sort on page number
+
 ## [1.4.1] - 2026-05-06
 
-### 🐛 Bug Fixes
+### 🔧 Fixes & Tweaks
 
-- *(betterToc)* Non-deterministic sort for same-page native entries
+- Non-deterministic sort for same-page native entries
+- Update toolbar item count
+- Update for 3.27
+
 ## [1.4.0] - 2026-04-21
 
-### 💼 Other
+### 🚀 Features
+
+- Add all/built-in/user filter
+
+### 🔧 Fixes & Tweaks
 
 - Scrollbar interactive
-- Add all/built-in/user filter
 - Menu cleanup
+
 ## [1.3.1] - 2026-04-20
 
-### 💼 Other
+### 🔧 Fixes & Tweaks
 
 - Copy toc.rm when duplicating with edits
+
 ## [1.3.0] - 2026-04-19
 
-### 💼 Other
+### 🚀 Features
 
-- Fix delete scrolling
 - Add scrollbar and respect smoothScroll
 - Add auto-number feature
+
+### 🔧 Fixes & Tweaks
+
+- Fix delete scrolling
+
 ## [1.2.2] - 2026-04-16
 
-### 💼 Other
+### 🔧 Fixes & Tweaks
 
 - Convert page entries to p:ratio for epubs
+
 ## [1.2.1] - 2026-04-11
 
-### 🐛 Bug Fixes
+### 🔧 Fixes & Tweaks
 
-- *(betterToc)* User toc entries appearing before native entries
-- *(betterToc)* UX for editing entries
+- User toc entries appearing before native entries
+- UX for editing entries
+
 ## [1.2.0] - 2026-02-11
 
-### 🐛 Bug Fixes
+### 🚀 Features
 
-- *(betterToc)* Stop creating entry on cancel
-- *(betterToc)* Fail to create entry with default text
-
-### 💼 Other
-
-- Add cross-doc linking (#2)
+- Add cross-doc linking
 - Add support for multiple toc entries per page
+
 ## [1.1.0] - 2025-12-23
 
-### 🐛 Bug Fixes
+### 🔧 Fixes & Tweaks
 
-- *(betterToc)* Deleting last ToC entry
+- Deleting last ToC entry
+- Stop creating entry on cancel
+- Fail to create entry with default text
+
 ## [1.0.1] - 2025-12-23
+
+- Initial release as bettertoc
