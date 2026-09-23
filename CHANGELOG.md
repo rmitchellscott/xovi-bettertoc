@@ -1,3 +1,10 @@
+## [1.5.1] - 2026-09-23
+
+### 🔧 Fixes & Tweaks
+
+- Cross-document links unable to save ToC on 3.28
+
+
 ## [1.5.0] - 2026-09-02
 
 ### 🚀 Features
