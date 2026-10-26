@@ -1,3 +1,10 @@
+## [1.5.2] - 2026-10-26
+
+### 🔧 Fixes & Tweaks
+
+- Support for reMarkable OS 3.29
+
+
 ## [1.5.1] - 2026-09-23
 
 ### 🔧 Fixes & Tweaks
