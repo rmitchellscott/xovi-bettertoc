@@ -1,3 +1,10 @@
+## [1.5.3] - 2026-11-12
+
+### 🔧 Fixes & Tweaks
+
+- Toolbar overflowing and hiding the More button when reopening notebooks
+
+
 ## [1.5.2] - 2026-10-26
 
 ### 🔧 Fixes & Tweaks
